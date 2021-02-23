@@ -18,7 +18,7 @@ body{
 }
 
 .container-fluid{
-  padding: 75% 2% 5%;
+  padding: 50% 2% 5%;
 
 }
 
@@ -63,8 +63,8 @@ margin: 0 30% 0;
 
 #heart {
     position: relative;
-    width: 100px;
-    height: 90px;
+    width: 200px;
+    height: 180px;
     animation: heartbeat 1s infinite;
     margin:0 auto
 }
