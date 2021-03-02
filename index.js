@@ -1,6 +1,7 @@
 document.querySelector(".big-heading").addEventListener("click", function(){var audio = new Audio("audio/laly1.aac");
 audio.play();
 animation();
+$("h1").text("I Love you so much Laly bear!!!"); 
 });
 
 function animation(){
